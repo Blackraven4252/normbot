@@ -28,4 +28,4 @@ async def animalmem(ctx):
       # Можем передавать файл как параметр!
     await ctx.send(file=picture)
 
-bot.run("MTA5NzA4NzgwMzcxNzg0OTEzOA.GnqYm5.EvLLbGE4z4rMh78oCIQJmQWEMysS50nqClAGac")
+bot.run("ТОКЕН")
